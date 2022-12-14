@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+body {
+  background: linear-gradient(100deg, #12c2e9, #c471ed, #f64f59);
+}
+.container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}

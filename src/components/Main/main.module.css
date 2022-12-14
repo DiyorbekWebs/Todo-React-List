@@ -1,0 +1,14 @@
+.main{
+    padding: 20px 10px;
+    background: linear-gradient(120deg, blue 0%,purple 0%,blue 200%);
+    height: 80vh;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.list{
+    display: flex;
+    gap: 30px;
+}
